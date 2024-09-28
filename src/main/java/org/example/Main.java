@@ -7,6 +7,9 @@ import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.cfg.Configuration;
 import org.hibernate.service.ServiceRegistry;
 /*
+Задание: Настройте связь между вашим приложением и базой данных MySQL с использованием Hibernate.
+Создайте несколько объектов Person и сохраните их в базу данных.
+
 -- Создаем схему (базу данных)
 CREATE DATABASE hibernate;
 
